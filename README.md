@@ -5,8 +5,8 @@
 Tecmilenio
 
 ### Idiomas
-Español: Idioma nativo
-Ingles: C1
+- Español: Idioma nativo
+- Ingles: C1
 
 ### Experiencia de trabajo
 Auxiliar @ GiitMexico
@@ -14,7 +14,7 @@ Auxiliar @ GiitMexico
 - mantenimiento de aires acondicionado de precisión
 - mantenimiento de centros de datos
 - monitoreo integral
-https://giitmexico.com.mx/
+- https://giitmexico.com.mx/
 
 ### Proyectos
 Electrónica de potencia
