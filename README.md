@@ -19,12 +19,12 @@ https://giitmexico.com.mx/
 ### Proyectos
 Electrónica de potencia
 - Fuente de poder variable
-[Fuente](/assets/img/fuente.png)
+[Fuente](/assets/img/fuente1.jpeg)
 - Amplificador tipo AB
-[Amplificador](/assets/img/amplificador.png)
+[Amplificador](/assets/img/amplificador.jpeg)
 - Inversor DC a AC con 555
-[Inversor](/assets/img/inversor.png)
+[Inversor](/assets/img/inversor.jpeg)
 - Convertidor DC a DC
-[Convertidor](/assets/img/convertidor.png)
+[Convertidor](/assets/img/convertidor.jpeg)
 - Piano electrónico
-[Piano](/assets/img/piano.png)
+[Piano](/assets/img/piano.jpeg)
