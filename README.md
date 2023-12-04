@@ -1,6 +1,10 @@
 # Ingeniero en Mecatronica
 ## Joven con pasión por su trabajo y excelente capacidad de organización y atención Con facilidad de adaptación a entornos cambiantes y clara orientación a objetivos. Estudiante en curso en la Universidad Tecmilenio con notables habilidades para la Tecnología y el internet, con las ganas de seguir aprendiendo y mejorando.
 
+### Redes sociales
+- [linkedin](www.linkedin.com/in/asael-ruvalcaba)
+- [twitter](https://twitter.com/Asael_Ruvalcab4)
+
 ### Educación
 Tecmilenio
 
